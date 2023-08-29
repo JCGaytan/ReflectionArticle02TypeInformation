@@ -1,0 +1,1 @@
+# ReflectionArticle02TypeInformation
